@@ -1,0 +1,3 @@
+rootProject.name = 'pogo_raids_2176'
+
+include ':app'
